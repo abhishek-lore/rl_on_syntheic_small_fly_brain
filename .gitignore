@@ -1,0 +1,6 @@
+__pycache__
+fly_brain_env
+fly_tensorboard
+cx_connectome.pt
+fly_connectome_actor_V4.pt
+real_fly_circuit.pt
