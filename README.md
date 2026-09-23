@@ -189,5 +189,4 @@ what this project's training loop is built for.
 
 ## License
 
-No license has been added to this repository yet. If you intend to publish
-or share it, add a `LICENSE` file (e.g. MIT, Apache-2.0) before doing so.
+MIT License
